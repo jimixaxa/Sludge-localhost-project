@@ -11,6 +11,7 @@ namespace Jimi.Lobby
         [Header("UI")]
         [SerializeField] private GameObject landingPagePanel = null;
 
+        //Host Lobby
         public void HostLobby()
         {
             networkManager.StartHost();
