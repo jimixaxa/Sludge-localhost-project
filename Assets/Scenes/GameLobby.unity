@@ -462,5 +462,20 @@ PrefabInstance:
       propertyPath: networkManager
       value: 
       objectReference: {fileID: 2086930983}
+    - target: {fileID: 7971864473999506194, guid: 14c0362b338cafe4aa3be051e1b0bdc1,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 93.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7971864473999506194, guid: 14c0362b338cafe4aa3be051e1b0bdc1,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 93.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7971864474715509979, guid: 14c0362b338cafe4aa3be051e1b0bdc1,
+        type: 3}
+      propertyPath: m_text
+      value: localhost
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14c0362b338cafe4aa3be051e1b0bdc1, type: 3}
